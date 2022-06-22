@@ -29,5 +29,15 @@ or open it in new tab from the admin system.
 
 #scale  
 
-        0              1        2       3            4                5  
-strongly agree slightly agree agree disagree slightly disagree strongly disagree
+strongly agree 0  
+
+slightly agree 1  
+
+agree 2  
+
+disagree 3  
+
+slightly disagree 4  
+
+strongly disagree 5
+
