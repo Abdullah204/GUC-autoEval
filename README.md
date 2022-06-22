@@ -15,17 +15,15 @@ A chrome extension that automates academic evaluation for GUC students.
 
 6- navigate to the folder downloaded and select the folder   
 
-7- open the evaluate academics site using *THIS* url : https://student.guc.edu.eg/external/student/staff/EvaluateStaff.aspx . 
+7- open the evaluate academics site using *THIS* url : https://student.guc.edu.eg/external/student/staff/EvaluateStaff.aspx   
 
 or open it in new tab from the admin system. 
 
-8- a popup should appear , click ok/cancel.
+9- choose the instructor you want to evaluate.  
 
-9- choose the instructor you want to evaluate  
+10- a popup should appear , enter a number from 0 (strongly agree ) to 5 (strongly disagree) or nothing if you dont want to autofill.  
 
-10- another popup should appear , enter a number from 0 (strongly agree ) to 5 (strongly disagree) or nothing if you dont want to autofill.  
-
-11- evaluation is done.(enter -1) again for the popup you can now move on to another instructor.  
+11- evaluation is done. you can now move on to another instructor.  
 
 # scale  
 
