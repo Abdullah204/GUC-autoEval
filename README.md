@@ -1,5 +1,5 @@
 # GUC-autoEval
-A chrome extension that automates academic evaluation for GUC students.  
+A chrome extension that automates academic evaluation for GUC students.  If you find it helpful, share it with your colleagues.
 
 # How to use :  
 
