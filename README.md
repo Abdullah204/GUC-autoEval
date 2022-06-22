@@ -26,3 +26,7 @@ or open it in new tab from the admin system.
 10- another popup should appear , enter a number from 0 (strongly agree ) to 5 (strongly disagree) or nothing if you dont want to autofill.  
 
 11- evaluation is done.(enter -1) again for the popup you can now move on to another instructor.
+#scale  
+
+        0              1        2       3            4                5  
+strongly agree slightly agree agree disagree slightly disagree strongly disagree
