@@ -25,6 +25,9 @@ or open it in new tab from the admin system.
 
 11- evaluation is done. you can now move on to another instructor.  
 
+the same extension should also be working for evaluate courses soon.  
+
+
 # scale  
 
 strongly agree : 0  
