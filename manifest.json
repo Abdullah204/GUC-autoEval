@@ -1,10 +1,11 @@
 {
     "name": "GUC evaluate academics automater",
     "description": "an extension that automates the evaluate instructor in a single click",
-    "version": "1.0",
+    "version": "1.11",
     "manifest_version": 3,
     "content_scripts": [{
-        "matches": ["https://student.guc.edu.eg/external/student/staff/EvaluateStaff.aspx"],
+        "matches": ["https://student.guc.edu.eg/Student/StudentWelcome.aspx",
+            "https://student.guc.edu.eg/external/student/staff/EvaluateStaff.aspx"],
         "js": ["script.js"]
     }],
     "permissions": [
