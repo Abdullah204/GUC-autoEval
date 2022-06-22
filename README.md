@@ -27,17 +27,17 @@ or open it in new tab from the admin system.
 
 11- evaluation is done.(enter -1) again for the popup you can now move on to another instructor.  
 
-#scale  
+# scale  
 
-strongly agree 0  
+strongly agree : 0  
 
-slightly agree 1  
+slightly agree : 1  
 
-agree 2  
+agree : 2  
 
-disagree 3  
+disagree : 3  
 
-slightly disagree 4  
+slightly disagree : 4  
 
-strongly disagree 5
+strongly disagree : 5
 
