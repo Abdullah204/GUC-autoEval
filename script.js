@@ -19,5 +19,13 @@ function evaluate(x) {
         }
     }
   }
+  if(document.getElementsByName("crsIdLst").length>0){
+    if(document.getElementsByName("crsIdLst")[0].selectedIndex!==0){
+        var x = parseInt(prompt("enter number from 0 to 5 to choose from strongly agree (0) to strongly disagree(5) or -1 to cancel"));
+        if(x>-1){
+          evaluate(x);
+        }
+    }
+  }
   
   
