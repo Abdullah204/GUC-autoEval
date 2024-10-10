@@ -4,9 +4,11 @@
     "version": "1.11",
     "manifest_version": 3,
     "content_scripts": [{
-        "matches": ["https://student.guc.edu.eg/Student/StudentWelcome.aspx",
-            "https://student.guc.edu.eg/external/student/staff/EvaluateStaff.aspx",
-                   "https://student.guc.edu.eg/External/Student/Course/EvaluateCourse.aspx"],
+      "matches": [
+        "https://apps.guc.edu.eg/Student/StudentWelcome.aspx",
+        "https://apps.guc.edu.eg//student_ext/Evaluation/EvaluateStaff.aspx",
+        "https://apps.guc.edu.eg/External/Student/Course/EvaluateCourse.aspx"
+      ],
         "js": ["script.js"]
     }],
     "permissions": [
